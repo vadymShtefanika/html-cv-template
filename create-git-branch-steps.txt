@@ -1,0 +1,4 @@
+1. git add .
+2. git checkout -b nume-prenume
+3. git commit -m 'Tema-1 | Nume-Prenume.'
+4. git push origin nume-prenume
