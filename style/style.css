@@ -88,7 +88,7 @@ body {
     row-gap: 10px;
 }
 
-.contact-tem {
+.contact-item {
     display: flex;
     column-gap: 16px;
 }
